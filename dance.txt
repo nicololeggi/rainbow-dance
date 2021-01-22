@@ -1,4 +1,5 @@
 Up
 Down
 Shoot
+SIppin
 Lean
